@@ -1,0 +1,23 @@
+/* mise en place + police */
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.titleBox {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 50px;
+}
+
+ul {
+    margin: 50px;
+}
+
+main {
+    padding: 50px;
+    margin: 50px;
+}
